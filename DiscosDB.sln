@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principal", "Principal\Principal.csproj", "{CB477088-DF7A-4195-B74B-178D184DF5A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{8484C49B-D356-4BBB-AC68-2413EE72F96E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{BE2755B6-ED56-4690-9374-2CE0E1D0C765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB477088-DF7A-4195-B74B-178D184DF5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB477088-DF7A-4195-B74B-178D184DF5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB477088-DF7A-4195-B74B-178D184DF5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB477088-DF7A-4195-B74B-178D184DF5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8484C49B-D356-4BBB-AC68-2413EE72F96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8484C49B-D356-4BBB-AC68-2413EE72F96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8484C49B-D356-4BBB-AC68-2413EE72F96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8484C49B-D356-4BBB-AC68-2413EE72F96E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2755B6-ED56-4690-9374-2CE0E1D0C765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2755B6-ED56-4690-9374-2CE0E1D0C765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2755B6-ED56-4690-9374-2CE0E1D0C765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2755B6-ED56-4690-9374-2CE0E1D0C765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCCC3ABD-9320-4AFB-92F2-08B34EB00EC6}
+	EndGlobalSection
+EndGlobal
